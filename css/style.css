@@ -64,7 +64,6 @@
 
 .portfolio-intro{
   width: 800px;
-
 }
 
 .intro-heading{
@@ -78,4 +77,79 @@
 .intro-gray-line{
   color: #757575;
   display: block;
+}
+
+  /* Section of features of work  */
+.features-section{
+  margin-top: 128px;
+  margin-bottom: 128px;
+}
+.features-date{
+  width: 226px;
+}
+.features-date p{
+  color: #000;
+  font-weight: 400;
+  line-height: 23.4px;
+  letter-spacing: 0.54px;
+}
+.features-date span{
+  color: #757575;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  letter-spacing: 0.54px;
+}
+.feature-left{
+  display: flex;
+  flex-direction: column;
+}
+.feature-right{
+  display: flex;
+  flex-direction: column;
+}
+
+.feature-work{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 31px;
+}
+
+.features-712{
+  width: 612px;
+  height: 716px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f7f7;
+  box-shadow: 0px 2px 10px #c5c4c4 ;
+  margin-bottom: 24px;
+  border-radius: 0 0 10px 10px;
+}
+
+.features{
+  width: 612px;
+  height: 538px;
+  border-radius: 0 0 10px 10px;
+  margin-bottom: 24px;
+  background-color: #f7f7f7;
+  box-shadow: 0px 2px 10px #c5c4c4 ;
+}
+.features-gap{
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  padding-top: 24px;
+  padding-left: 24px;
+
+}
+.features-gray{
+  color: #757575;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  padding-left: 24px;
 }
