@@ -59,11 +59,11 @@
   /* SECTION INTRO  */
 .intro-section{
   margin-top: 126px;
-  margin-bottom: 54px;
 }
 
 .portfolio-intro{
   width: 800px;
+  margin-bottom: 54px;
 }
 
 .intro-heading{
@@ -157,7 +157,6 @@
 
  /* About me Section: Informations about myself */
 .about-myself-secting{
-  margin-top: 128px;
   margin-bottom: 264px;
 }
 
