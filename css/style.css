@@ -193,3 +193,14 @@
 .about-myself-informations p:last-child{
   margin-bottom: 0px;
 }
+
+
+  /* Section for my picture  */
+
+.my-picture-section-img{
+  width: 100%;
+  max-width: 1519px;
+  height: 720px;
+  display: flex;
+  margin: 0 auto;
+}
