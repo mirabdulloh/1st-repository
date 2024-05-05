@@ -319,3 +319,33 @@
 .selected-clients p:last-child{
   border: 0;
 }
+
+/* For contacting via eamil section  */
+
+.contanct-via-email-item{
+  width: 1248px;
+  height: 591px;
+  background-color: #FFEBD8;
+  border-radius:20px ;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact-via-email-heading{
+  width: 638px;
+  color: #000;
+  text-align: center;
+  font-size: 57px;
+  font-weight: 400;
+  line-height: 73.6px;
+  letter-spacing: 2.56px;
+}
+.for-email{
+  color: #000;
+  text-align: center;
+  font-size: 37px;
+  font-weight: 400;
+  line-height: 52px;
+  letter-spacing: 1.2px;
+}
