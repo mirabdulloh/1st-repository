@@ -54,9 +54,9 @@
 }
 
 
-  /* MAIN SATAR  */
+/* MAIN SATAR  */
 
-  /* SECTION INTRO  */
+/* SECTION INTRO  */
 .intro-section{
   margin-top: 126px;
 }
@@ -79,7 +79,7 @@
   display: block;
 }
 
-  /* Section of features of work  */
+/* Section of features of work  */
 .features-section{
   margin-top: 128px;
   margin-bottom: 128px;
@@ -155,7 +155,7 @@
 }
 
 
- /* About me Section: Informations about myself */
+/* About me Section: Informations about myself */
 .about-myself-secting{
   margin-bottom: 264px;
 }
@@ -179,7 +179,7 @@
   height: 778px;
   display: flex;
   flex-direction: column;
- }
+}
 .about-myself-informations p{
   color: #000;
   font-size: 28px;
@@ -194,7 +194,7 @@
 }
 
 
-  /* Section for my picture  */
+/* Section for my picture  */
 .my-img-section{
   margin-bottom: 264px;
 }
@@ -205,11 +205,53 @@
   display: flex;
   margin: 0 auto;
 }
+
+  /* Section for experience  */
+.experience_section{
+  margin-bottom: 256px;
+}
 .experinece{
   display: flex;
   justify-content: space-between;
 }
+
+.experience-heading h3{
+  color: #000;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.64px;
+}
 .experience-information{
   display: flex;
   flex-direction: column;
+}
+.experine-in-company{
+  width: 588px;
+  height: 151px;
+  border-bottom: 1.5px solid rgba(228, 227, 227, 0.745);
+  margin-bottom: 48px;
+}
+.experine-in-company:last-child{
+  margin-bottom: 0px;
+}
+
+.experience-information span{
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  padding-bottom:4px ;
+}
+.experience-information p{
+  color: #525252;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  padding-bottom: 16px;
+}
+.experience-information p:last-child{
+  padding-bottom: 0px;
 }
