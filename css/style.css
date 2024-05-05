@@ -321,7 +321,9 @@
 }
 
 /* For contacting via eamil section  */
-
+.contact-via-email{
+  margin-bottom: 128px;
+}
 .contanct-via-email-item{
   width: 1248px;
   height: 591px;
