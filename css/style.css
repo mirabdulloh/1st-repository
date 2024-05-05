@@ -197,7 +197,6 @@
 
   /* Section for my picture  */
 .my-img-section{
-  margin-top: 264px;
   margin-bottom: 264px;
 }
 .my-picture-section-img{
@@ -206,4 +205,12 @@
   height: 720px;
   display: flex;
   margin: 0 auto;
+}
+.experinece{
+  display: flex;
+  justify-content: space-between;
+}
+.experience-information{
+  display: flex;
+  flex-direction: column;
 }
