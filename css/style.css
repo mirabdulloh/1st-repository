@@ -206,7 +206,7 @@
   margin: 0 auto;
 }
 
-  /* Section for experience  */
+/* Section for experience  */
 .experience_section{
   margin-bottom: 256px;
 }
@@ -254,4 +254,68 @@
 }
 .experience-information p:last-child{
   padding-bottom: 0px;
+}
+
+
+/* Services for clients| Selected clients Section   */
+.services-section{
+  margin-bottom: 128px;
+}
+.services-clients{
+  padding-bottom: 128px;
+}
+.services{
+  width: 588px;
+  height: 431px;
+}
+
+.services h3{
+  color: #000;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.64px;
+  margin-bottom: 63px;
+}
+
+.services p{
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  border-bottom: 1.5px solid rgba(228, 227, 227, 0.745);
+  margin-bottom: 24px;
+  padding-bottom: 25px;
+}
+.services p:last-child{
+  border: 0;
+}
+
+.selected-clients{
+  width: 588px;
+  height: 431px;
+}
+
+
+.selected-clients h3{
+  color: #000;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.64px;
+  margin-bottom: 63px;
+}
+.selected-clients p{
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  border-bottom: 1.5px solid rgba(228, 227, 227, 0.745);
+  margin-bottom: 24px;
+  padding-bottom: 25px;
+}
+.selected-clients p:last-child{
+  border: 0;
 }
